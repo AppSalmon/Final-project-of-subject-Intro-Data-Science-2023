@@ -1,0 +1,2053 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="change,deep-thoughts,thinking,world" itemprop="keywords"/>
+<a class="tag" href="/tag/change/page/1/">change</a>
+<a class="tag" href="/tag/deep-thoughts/page/1/">deep-thoughts</a>
+<a class="tag" href="/tag/thinking/page/1/">thinking</a>
+<a class="tag" href="/tag/world/page/1/">world</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It is our choices, Harry, that show what we truly are, far more than our abilities.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="abilities,choices" itemprop="keywords"/>
+<a class="tag" href="/tag/abilities/page/1/">abilities</a>
+<a class="tag" href="/tag/choices/page/1/">choices</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="inspirational,life,live,miracle,miracles" itemprop="keywords"/>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/live/page/1/">live</a>
+<a class="tag" href="/tag/miracle/page/1/">miracle</a>
+<a class="tag" href="/tag/miracles/page/1/">miracles</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”</span>
+<span>by <small class="author" itemprop="author">Jane Austen</small>
+<a href="/author/Jane-Austen">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="aliteracy,books,classic,humor" itemprop="keywords"/>
+<a class="tag" href="/tag/aliteracy/page/1/">aliteracy</a>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/classic/page/1/">classic</a>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”</span>
+<span>by <small class="author" itemprop="author">Marilyn Monroe</small>
+<a href="/author/Marilyn-Monroe">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="be-yourself,inspirational" itemprop="keywords"/>
+<a class="tag" href="/tag/be-yourself/page/1/">be-yourself</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Try not to become a man of success. Rather become a man of value.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="adulthood,success,value" itemprop="keywords"/>
+<a class="tag" href="/tag/adulthood/page/1/">adulthood</a>
+<a class="tag" href="/tag/success/page/1/">success</a>
+<a class="tag" href="/tag/value/page/1/">value</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It is better to be hated for what you are than to be loved for what you are not.”</span>
+<span>by <small class="author" itemprop="author">André Gide</small>
+<a href="/author/Andre-Gide">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="life,love" itemprop="keywords"/>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I have not failed. I've just found 10,000 ways that won't work.”</span>
+<span>by <small class="author" itemprop="author">Thomas A. Edison</small>
+<a href="/author/Thomas-A-Edison">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="edison,failure,inspirational,paraphrased" itemprop="keywords"/>
+<a class="tag" href="/tag/edison/page/1/">edison</a>
+<a class="tag" href="/tag/failure/page/1/">failure</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+<a class="tag" href="/tag/paraphrased/page/1/">paraphrased</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“A woman is like a tea bag; you never know how strong it is until it's in hot water.”</span>
+<span>by <small class="author" itemprop="author">Eleanor Roosevelt</small>
+<a href="/author/Eleanor-Roosevelt">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="misattributed-eleanor-roosevelt" itemprop="keywords"/>
+<a class="tag" href="/tag/misattributed-eleanor-roosevelt/page/1/">misattributed-eleanor-roosevelt</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“A day without sunshine is like, you know, night.”</span>
+<span>by <small class="author" itemprop="author">Steve Martin</small>
+<a href="/author/Steve-Martin">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor,obvious,simile" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+<a class="tag" href="/tag/obvious/page/1/">obvious</a>
+<a class="tag" href="/tag/simile/page/1/">simile</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="next">
+<a href="/page/2/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“This life is what you make it. No matter what, you're going to mess up sometimes, it's a universal truth. But the good part is you get to decide how you're going to mess it up. Girls will be your friends - they'll act like it anyway. But just remember, some come, some go. The ones that stay with you through everything - they're your true best friends. Don't let go of them. Also remember, sisters make the best friends in the world. As for lovers, well, they'll come and go too. And baby, I hate to say it, most of them - actually pretty much all of them are going to break your heart, but you can't give up because if you give up, you'll never find your soulmate. You'll never find that half who makes you whole and that goes for everything. Just because you fail once, doesn't mean you're gonna fail at everything. Keep trying, hold on, and always, always, always believe in yourself, because if you don't, then who will, sweetie? So keep your head high, keep your chin up, and most importantly, keep smiling, because life's a beautiful thing and there's so much to smile about.”</span>
+<span>by <small class="author" itemprop="author">Marilyn Monroe</small>
+<a href="/author/Marilyn-Monroe">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="friends,heartbreak,inspirational,life,love,sisters" itemprop="keywords"/>
+<a class="tag" href="/tag/friends/page/1/">friends</a>
+<a class="tag" href="/tag/heartbreak/page/1/">heartbreak</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+<a class="tag" href="/tag/sisters/page/1/">sisters</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="courage,friends" itemprop="keywords"/>
+<a class="tag" href="/tag/courage/page/1/">courage</a>
+<a class="tag" href="/tag/friends/page/1/">friends</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“If you can't explain it to a six year old, you don't understand it yourself.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="simplicity,understand" itemprop="keywords"/>
+<a class="tag" href="/tag/simplicity/page/1/">simplicity</a>
+<a class="tag" href="/tag/understand/page/1/">understand</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“You may not be her first, her last, or her only. She loved before she may love again. But if she loves you now, what else matters? She's not perfect—you aren't either, and the two of you may never be perfect together but if she can make you laugh, cause you to think twice, and admit to being human and making mistakes, hold onto her and give her the most you can. She may not be thinking about you every second of the day, but she will give you a part of her that she knows you can break—her heart. So don't hurt her, don't change her, don't analyze and don't expect more than she can give. Smile when she makes you happy, let her know when she makes you mad, and miss her when she's not there.”</span>
+<span>by <small class="author" itemprop="author">Bob Marley</small>
+<a href="/author/Bob-Marley">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="love" itemprop="keywords"/>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”</span>
+<span>by <small class="author" itemprop="author">Dr. Seuss</small>
+<a href="/author/Dr-Seuss">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="fantasy" itemprop="keywords"/>
+<a class="tag" href="/tag/fantasy/page/1/">fantasy</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”</span>
+<span>by <small class="author" itemprop="author">Douglas Adams</small>
+<a href="/author/Douglas-Adams">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="life,navigation" itemprop="keywords"/>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/navigation/page/1/">navigation</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”</span>
+<span>by <small class="author" itemprop="author">Elie Wiesel</small>
+<a href="/author/Elie-Wiesel">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="activism,apathy,hate,indifference,inspirational,love,opposite,philosophy" itemprop="keywords"/>
+<a class="tag" href="/tag/activism/page/1/">activism</a>
+<a class="tag" href="/tag/apathy/page/1/">apathy</a>
+<a class="tag" href="/tag/hate/page/1/">hate</a>
+<a class="tag" href="/tag/indifference/page/1/">indifference</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+<a class="tag" href="/tag/opposite/page/1/">opposite</a>
+<a class="tag" href="/tag/philosophy/page/1/">philosophy</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”</span>
+<span>by <small class="author" itemprop="author">Friedrich Nietzsche</small>
+<a href="/author/Friedrich-Nietzsche">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="friendship,lack-of-friendship,lack-of-love,love,marriage,unhappy-marriage" itemprop="keywords"/>
+<a class="tag" href="/tag/friendship/page/1/">friendship</a>
+<a class="tag" href="/tag/lack-of-friendship/page/1/">lack-of-friendship</a>
+<a class="tag" href="/tag/lack-of-love/page/1/">lack-of-love</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+<a class="tag" href="/tag/marriage/page/1/">marriage</a>
+<a class="tag" href="/tag/unhappy-marriage/page/1/">unhappy-marriage</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Good friends, good books, and a sleepy conscience: this is the ideal life.”</span>
+<span>by <small class="author" itemprop="author">Mark Twain</small>
+<a href="/author/Mark-Twain">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,contentment,friends,friendship,life" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/contentment/page/1/">contentment</a>
+<a class="tag" href="/tag/friends/page/1/">friends</a>
+<a class="tag" href="/tag/friendship/page/1/">friendship</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Life is what happens to us while we are making other plans.”</span>
+<span>by <small class="author" itemprop="author">Allen Saunders</small>
+<a href="/author/Allen-Saunders">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="fate,life,misattributed-john-lennon,planning,plans" itemprop="keywords"/>
+<a class="tag" href="/tag/fate/page/1/">fate</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/misattributed-john-lennon/page/1/">misattributed-john-lennon</a>
+<a class="tag" href="/tag/planning/page/1/">planning</a>
+<a class="tag" href="/tag/plans/page/1/">plans</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/1/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/3/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”</span>
+<span>by <small class="author" itemprop="author">Pablo Neruda</small>
+<a href="/author/Pablo-Neruda">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="love,poetry" itemprop="keywords"/>
+<a class="tag" href="/tag/love/page/1/">love</a>
+<a class="tag" href="/tag/poetry/page/1/">poetry</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“For every minute you are angry you lose sixty seconds of happiness.”</span>
+<span>by <small class="author" itemprop="author">Ralph Waldo Emerson</small>
+<a href="/author/Ralph-Waldo-Emerson">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="happiness" itemprop="keywords"/>
+<a class="tag" href="/tag/happiness/page/1/">happiness</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“If you judge people, you have no time to love them.”</span>
+<span>by <small class="author" itemprop="author">Mother Teresa</small>
+<a href="/author/Mother-Teresa">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="attributed-no-source" itemprop="keywords"/>
+<a class="tag" href="/tag/attributed-no-source/page/1/">attributed-no-source</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.”</span>
+<span>by <small class="author" itemprop="author">Garrison Keillor</small>
+<a href="/author/Garrison-Keillor">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor,religion" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+<a class="tag" href="/tag/religion/page/1/">religion</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.”</span>
+<span>by <small class="author" itemprop="author">Jim Henson</small>
+<a href="/author/Jim-Henson">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Today you are You, that is truer than true. There is no one alive who is Youer than You.”</span>
+<span>by <small class="author" itemprop="author">Dr. Seuss</small>
+<a href="/author/Dr-Seuss">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="comedy,life,yourself" itemprop="keywords"/>
+<a class="tag" href="/tag/comedy/page/1/">comedy</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/yourself/page/1/">yourself</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="children,fairy-tales" itemprop="keywords"/>
+<a class="tag" href="/tag/children/page/1/">children</a>
+<a class="tag" href="/tag/fairy-tales/page/1/">fairy-tales</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+<meta class="keywords" content="" itemprop="keywords"/>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Logic will get you from A to Z; imagination will get you everywhere.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="imagination" itemprop="keywords"/>
+<a class="tag" href="/tag/imagination/page/1/">imagination</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“One good thing about music, when it hits you, you feel no pain.”</span>
+<span>by <small class="author" itemprop="author">Bob Marley</small>
+<a href="/author/Bob-Marley">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="music" itemprop="keywords"/>
+<a class="tag" href="/tag/music/page/1/">music</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/2/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/4/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The more that you read, the more things you will know. The more that you learn, the more places you'll go.”</span>
+<span>by <small class="author" itemprop="author">Dr. Seuss</small>
+<a href="/author/Dr-Seuss">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="learning,reading,seuss" itemprop="keywords"/>
+<a class="tag" href="/tag/learning/page/1/">learning</a>
+<a class="tag" href="/tag/reading/page/1/">reading</a>
+<a class="tag" href="/tag/seuss/page/1/">seuss</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="dumbledore" itemprop="keywords"/>
+<a class="tag" href="/tag/dumbledore/page/1/">dumbledore</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.”</span>
+<span>by <small class="author" itemprop="author">Bob Marley</small>
+<a href="/author/Bob-Marley">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="friendship" itemprop="keywords"/>
+<a class="tag" href="/tag/friendship/page/1/">friendship</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Not all of us can do great things. But we can do small things with great love.”</span>
+<span>by <small class="author" itemprop="author">Mother Teresa</small>
+<a href="/author/Mother-Teresa">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="misattributed-to-mother-teresa,paraphrased" itemprop="keywords"/>
+<a class="tag" href="/tag/misattributed-to-mother-teresa/page/1/">misattributed-to-mother-teresa</a>
+<a class="tag" href="/tag/paraphrased/page/1/">paraphrased</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“To the well-organized mind, death is but the next great adventure.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="death,inspirational" itemprop="keywords"/>
+<a class="tag" href="/tag/death/page/1/">death</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“All you need is love. But a little chocolate now and then doesn't hurt.”</span>
+<span>by <small class="author" itemprop="author">Charles M. Schulz</small>
+<a href="/author/Charles-M-Schulz">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="chocolate,food,humor" itemprop="keywords"/>
+<a class="tag" href="/tag/chocolate/page/1/">chocolate</a>
+<a class="tag" href="/tag/food/page/1/">food</a>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“We read to know we're not alone.”</span>
+<span>by <small class="author" itemprop="author">William Nicholson</small>
+<a href="/author/William-Nicholson">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="misattributed-to-c-s-lewis,reading" itemprop="keywords"/>
+<a class="tag" href="/tag/misattributed-to-c-s-lewis/page/1/">misattributed-to-c-s-lewis</a>
+<a class="tag" href="/tag/reading/page/1/">reading</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Any fool can know. The point is to understand.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="knowledge,learning,understanding,wisdom" itemprop="keywords"/>
+<a class="tag" href="/tag/knowledge/page/1/">knowledge</a>
+<a class="tag" href="/tag/learning/page/1/">learning</a>
+<a class="tag" href="/tag/understanding/page/1/">understanding</a>
+<a class="tag" href="/tag/wisdom/page/1/">wisdom</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I have always imagined that Paradise will be a kind of library.”</span>
+<span>by <small class="author" itemprop="author">Jorge Luis Borges</small>
+<a href="/author/Jorge-Luis-Borges">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,library" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/library/page/1/">library</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It is never too late to be what you might have been.”</span>
+<span>by <small class="author" itemprop="author">George Eliot</small>
+<a href="/author/George-Eliot">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="inspirational" itemprop="keywords"/>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/3/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/5/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“A reader lives a thousand lives before he dies, said Jojen. The man who never reads lives only one.”</span>
+<span>by <small class="author" itemprop="author">George R.R. Martin</small>
+<a href="/author/George-R-R-Martin">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="read,readers,reading,reading-books" itemprop="keywords"/>
+<a class="tag" href="/tag/read/page/1/">read</a>
+<a class="tag" href="/tag/readers/page/1/">readers</a>
+<a class="tag" href="/tag/reading/page/1/">reading</a>
+<a class="tag" href="/tag/reading-books/page/1/">reading-books</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“You can never get a cup of tea large enough or a book long enough to suit me.”</span>
+<span>by <small class="author" itemprop="author">C.S. Lewis</small>
+<a href="/author/C-S-Lewis">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,inspirational,reading,tea" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+<a class="tag" href="/tag/reading/page/1/">reading</a>
+<a class="tag" href="/tag/tea/page/1/">tea</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“You believe lies so you eventually learn to trust no one but yourself.”</span>
+<span>by <small class="author" itemprop="author">Marilyn Monroe</small>
+<a href="/author/Marilyn-Monroe">(about)</a>
+</span>
+<div class="tags">
+<meta class="keywords" content="" itemprop="keywords"/>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“If you can make a woman laugh, you can make her do anything.”</span>
+<span>by <small class="author" itemprop="author">Marilyn Monroe</small>
+<a href="/author/Marilyn-Monroe">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="girls,love" itemprop="keywords"/>
+<a class="tag" href="/tag/girls/page/1/">girls</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Life is like riding a bicycle. To keep your balance, you must keep moving.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="life,simile" itemprop="keywords"/>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/simile/page/1/">simile</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The real lover is the man who can thrill you by kissing your forehead or smiling into your eyes or just staring into space.”</span>
+<span>by <small class="author" itemprop="author">Marilyn Monroe</small>
+<a href="/author/Marilyn-Monroe">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="love" itemprop="keywords"/>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“A wise girl kisses but doesn't love, listens but doesn't believe, and leaves before she is left.”</span>
+<span>by <small class="author" itemprop="author">Marilyn Monroe</small>
+<a href="/author/Marilyn-Monroe">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="attributed-no-source" itemprop="keywords"/>
+<a class="tag" href="/tag/attributed-no-source/page/1/">attributed-no-source</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Only in the darkness can you see the stars.”</span>
+<span>by <small class="author" itemprop="author">Martin Luther King Jr.</small>
+<a href="/author/Martin-Luther-King-Jr">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="hope,inspirational" itemprop="keywords"/>
+<a class="tag" href="/tag/hope/page/1/">hope</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It matters not what someone is born, but what they grow to be.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="dumbledore" itemprop="keywords"/>
+<a class="tag" href="/tag/dumbledore/page/1/">dumbledore</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Love does not begin and end the way we seem to think it does. Love is a battle, love is a war; love is a growing up.”</span>
+<span>by <small class="author" itemprop="author">James Baldwin</small>
+<a href="/author/James-Baldwin">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="love" itemprop="keywords"/>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/4/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/6/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“There is nothing I would not do for those who are really my friends. I have no notion of loving people by halves, it is not my nature.”</span>
+<span>by <small class="author" itemprop="author">Jane Austen</small>
+<a href="/author/Jane-Austen">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="friendship,love" itemprop="keywords"/>
+<a class="tag" href="/tag/friendship/page/1/">friendship</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Do one thing every day that scares you.”</span>
+<span>by <small class="author" itemprop="author">Eleanor Roosevelt</small>
+<a href="/author/Eleanor-Roosevelt">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="attributed,fear,inspiration" itemprop="keywords"/>
+<a class="tag" href="/tag/attributed/page/1/">attributed</a>
+<a class="tag" href="/tag/fear/page/1/">fear</a>
+<a class="tag" href="/tag/inspiration/page/1/">inspiration</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I am good, but not an angel. I do sin, but I am not the devil. I am just a small girl in a big world trying to find someone to love.”</span>
+<span>by <small class="author" itemprop="author">Marilyn Monroe</small>
+<a href="/author/Marilyn-Monroe">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="attributed-no-source" itemprop="keywords"/>
+<a class="tag" href="/tag/attributed-no-source/page/1/">attributed-no-source</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="music" itemprop="keywords"/>
+<a class="tag" href="/tag/music/page/1/">music</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“If you only read the books that everyone else is reading, you can only think what everyone else is thinking.”</span>
+<span>by <small class="author" itemprop="author">Haruki Murakami</small>
+<a href="/author/Haruki-Murakami">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,thought" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/thought/page/1/">thought</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The difference between genius and stupidity is: genius has its limits.”</span>
+<span>by <small class="author" itemprop="author">Alexandre Dumas fils</small>
+<a href="/author/Alexandre-Dumas-fils">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="misattributed-to-einstein" itemprop="keywords"/>
+<a class="tag" href="/tag/misattributed-to-einstein/page/1/">misattributed-to-einstein</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“He's like a drug for you, Bella.”</span>
+<span>by <small class="author" itemprop="author">Stephenie Meyer</small>
+<a href="/author/Stephenie-Meyer">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="drug,romance,simile" itemprop="keywords"/>
+<a class="tag" href="/tag/drug/page/1/">drug</a>
+<a class="tag" href="/tag/romance/page/1/">romance</a>
+<a class="tag" href="/tag/simile/page/1/">simile</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“There is no friend as loyal as a book.”</span>
+<span>by <small class="author" itemprop="author">Ernest Hemingway</small>
+<a href="/author/Ernest-Hemingway">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,friends,novelist-quotes" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/friends/page/1/">friends</a>
+<a class="tag" href="/tag/novelist-quotes/page/1/">novelist-quotes</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.”</span>
+<span>by <small class="author" itemprop="author">Helen Keller</small>
+<a href="/author/Helen-Keller">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="inspirational" itemprop="keywords"/>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Life isn't about finding yourself. Life is about creating yourself.”</span>
+<span>by <small class="author" itemprop="author">George Bernard Shaw</small>
+<a href="/author/George-Bernard-Shaw">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="inspirational,life,yourself" itemprop="keywords"/>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/yourself/page/1/">yourself</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/5/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/7/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“That's the problem with drinking, I thought, as I poured myself a drink. If something bad happens you drink in an attempt to forget; if something good happens you drink in order to celebrate; and if nothing happens you drink to make something happen.”</span>
+<span>by <small class="author" itemprop="author">Charles Bukowski</small>
+<a href="/author/Charles-Bukowski">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="alcohol" itemprop="keywords"/>
+<a class="tag" href="/tag/alcohol/page/1/">alcohol</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“You don’t forget the face of the person who was your last hope.”</span>
+<span>by <small class="author" itemprop="author">Suzanne Collins</small>
+<a href="/author/Suzanne-Collins">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="the-hunger-games" itemprop="keywords"/>
+<a class="tag" href="/tag/the-hunger-games/page/1/">the-hunger-games</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Remember, we're madly in love, so it's all right to kiss me anytime you feel like it.”</span>
+<span>by <small class="author" itemprop="author">Suzanne Collins</small>
+<a href="/author/Suzanne-Collins">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“To love at all is to be vulnerable. Love anything and your heart will be wrung and possibly broken. If you want to make sure of keeping it intact you must give it to no one, not even an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements. Lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. To love is to be vulnerable.”</span>
+<span>by <small class="author" itemprop="author">C.S. Lewis</small>
+<a href="/author/C-S-Lewis">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="love" itemprop="keywords"/>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Not all those who wander are lost.”</span>
+<span>by <small class="author" itemprop="author">J.R.R. Tolkien</small>
+<a href="/author/J-R-R-Tolkien">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="bilbo,journey,lost,quest,travel,wander" itemprop="keywords"/>
+<a class="tag" href="/tag/bilbo/page/1/">bilbo</a>
+<a class="tag" href="/tag/journey/page/1/">journey</a>
+<a class="tag" href="/tag/lost/page/1/">lost</a>
+<a class="tag" href="/tag/quest/page/1/">quest</a>
+<a class="tag" href="/tag/travel/page/1/">travel</a>
+<a class="tag" href="/tag/wander/page/1/">wander</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Do not pity the dead, Harry. Pity the living, and, above all those who live without love.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="live-death-love" itemprop="keywords"/>
+<a class="tag" href="/tag/live-death-love/page/1/">live-death-love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“There is nothing to writing. All you do is sit down at a typewriter and bleed.”</span>
+<span>by <small class="author" itemprop="author">Ernest Hemingway</small>
+<a href="/author/Ernest-Hemingway">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="good,writing" itemprop="keywords"/>
+<a class="tag" href="/tag/good/page/1/">good</a>
+<a class="tag" href="/tag/writing/page/1/">writing</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Finish each day and be done with it. You have done what you could. Some blunders and absurdities no doubt crept in; forget them as soon as you can. Tomorrow is a new day. You shall begin it serenely and with too high a spirit to be encumbered with your old nonsense.”</span>
+<span>by <small class="author" itemprop="author">Ralph Waldo Emerson</small>
+<a href="/author/Ralph-Waldo-Emerson">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="life,regrets" itemprop="keywords"/>
+<a class="tag" href="/tag/life/page/1/">life</a>
+<a class="tag" href="/tag/regrets/page/1/">regrets</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I have never let my schooling interfere with my education.”</span>
+<span>by <small class="author" itemprop="author">Mark Twain</small>
+<a href="/author/Mark-Twain">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="education" itemprop="keywords"/>
+<a class="tag" href="/tag/education/page/1/">education</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I have heard there are troubles of more than one kind. Some come from ahead and some come from behind. But I've bought a big bat. I'm all ready you see. Now my troubles are going to have troubles with me!”</span>
+<span>by <small class="author" itemprop="author">Dr. Seuss</small>
+<a href="/author/Dr-Seuss">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="troubles" itemprop="keywords"/>
+<a class="tag" href="/tag/troubles/page/1/">troubles</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/6/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/8/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“If I had a flower for every time I thought of you...I could walk through my garden forever.”</span>
+<span>by <small class="author" itemprop="author">Alfred Tennyson</small>
+<a href="/author/Alfred-Tennyson">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="friendship,love" itemprop="keywords"/>
+<a class="tag" href="/tag/friendship/page/1/">friendship</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Some people never go crazy. What truly horrible lives they must lead.”</span>
+<span>by <small class="author" itemprop="author">Charles Bukowski</small>
+<a href="/author/Charles-Bukowski">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.”</span>
+<span>by <small class="author" itemprop="author">Terry Pratchett</small>
+<a href="/author/Terry-Pratchett">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor,open-mind,thinking" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+<a class="tag" href="/tag/open-mind/page/1/">open-mind</a>
+<a class="tag" href="/tag/thinking/page/1/">thinking</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Think left and think right and think low and think high. Oh, the thinks you can think up if only you try!”</span>
+<span>by <small class="author" itemprop="author">Dr. Seuss</small>
+<a href="/author/Dr-Seuss">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor,philosophy" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+<a class="tag" href="/tag/philosophy/page/1/">philosophy</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“What really knocks me out is a book that, when you're all done reading it, you wish the author that wrote it was a terrific friend of yours and you could call him up on the phone whenever you felt like it. That doesn't happen much, though.”</span>
+<span>by <small class="author" itemprop="author">J.D. Salinger</small>
+<a href="/author/J-D-Salinger">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="authors,books,literature,reading,writing" itemprop="keywords"/>
+<a class="tag" href="/tag/authors/page/1/">authors</a>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/literature/page/1/">literature</a>
+<a class="tag" href="/tag/reading/page/1/">reading</a>
+<a class="tag" href="/tag/writing/page/1/">writing</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The reason I talk to myself is because I’m the only one whose answers I accept.”</span>
+<span>by <small class="author" itemprop="author">George Carlin</small>
+<a href="/author/George-Carlin">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor,insanity,lies,lying,self-indulgence,truth" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+<a class="tag" href="/tag/insanity/page/1/">insanity</a>
+<a class="tag" href="/tag/lies/page/1/">lies</a>
+<a class="tag" href="/tag/lying/page/1/">lying</a>
+<a class="tag" href="/tag/self-indulgence/page/1/">self-indulgence</a>
+<a class="tag" href="/tag/truth/page/1/">truth</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.”</span>
+<span>by <small class="author" itemprop="author">John Lennon</small>
+<a href="/author/John-Lennon">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="beatles,connection,dreamers,dreaming,dreams,hope,inspirational,peace" itemprop="keywords"/>
+<a class="tag" href="/tag/beatles/page/1/">beatles</a>
+<a class="tag" href="/tag/connection/page/1/">connection</a>
+<a class="tag" href="/tag/dreamers/page/1/">dreamers</a>
+<a class="tag" href="/tag/dreaming/page/1/">dreaming</a>
+<a class="tag" href="/tag/dreams/page/1/">dreams</a>
+<a class="tag" href="/tag/hope/page/1/">hope</a>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+<a class="tag" href="/tag/peace/page/1/">peace</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I am free of all prejudice. I hate everyone equally. ”</span>
+<span>by <small class="author" itemprop="author">W.C. Fields</small>
+<a href="/author/W-C-Fields">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor,sinister" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+<a class="tag" href="/tag/sinister/page/1/">sinister</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The question isn't who is going to let me; it's who is going to stop me.”</span>
+<span>by <small class="author" itemprop="author">Ayn Rand</small>
+<a href="/author/Ayn-Rand">(about)</a>
+</span>
+<div class="tags">
+<meta class="keywords" content="" itemprop="keywords"/>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“′Classic′ - a book which people praise and don't read.”</span>
+<span>by <small class="author" itemprop="author">Mark Twain</small>
+<a href="/author/Mark-Twain">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,classic,reading" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/classic/page/1/">classic</a>
+<a class="tag" href="/tag/reading/page/1/">reading</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/7/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/9/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Anyone who has never made a mistake has never tried anything new.”</span>
+<span>by <small class="author" itemprop="author">Albert Einstein</small>
+<a href="/author/Albert-Einstein">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="mistakes" itemprop="keywords"/>
+<a class="tag" href="/tag/mistakes/page/1/">mistakes</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“A lady's imagination is very rapid; it jumps from admiration to love, from love to matrimony in a moment.”</span>
+<span>by <small class="author" itemprop="author">Jane Austen</small>
+<a href="/author/Jane-Austen">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="humor,love,romantic,women" itemprop="keywords"/>
+<a class="tag" href="/tag/humor/page/1/">humor</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+<a class="tag" href="/tag/romantic/page/1/">romantic</a>
+<a class="tag" href="/tag/women/page/1/">women</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Remember, if the time should come when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort. Remember Cedric Diggory.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="integrity" itemprop="keywords"/>
+<a class="tag" href="/tag/integrity/page/1/">integrity</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I declare after all there is no enjoyment like reading! How much sooner one tires of any thing than of a book! -- When I have a house of my own, I shall be miserable if I have not an excellent library.”</span>
+<span>by <small class="author" itemprop="author">Jane Austen</small>
+<a href="/author/Jane-Austen">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,library,reading" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/library/page/1/">library</a>
+<a class="tag" href="/tag/reading/page/1/">reading</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“There are few people whom I really love, and still fewer of whom I think well. The more I see of the world, the more am I dissatisfied with it; and every day confirms my belief of the inconsistency of all human characters, and of the little dependence that can be placed on the appearance of merit or sense.”</span>
+<span>by <small class="author" itemprop="author">Jane Austen</small>
+<a href="/author/Jane-Austen">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="elizabeth-bennet,jane-austen" itemprop="keywords"/>
+<a class="tag" href="/tag/elizabeth-bennet/page/1/">elizabeth-bennet</a>
+<a class="tag" href="/tag/jane-austen/page/1/">jane-austen</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Some day you will be old enough to start reading fairy tales again.”</span>
+<span>by <small class="author" itemprop="author">C.S. Lewis</small>
+<a href="/author/C-S-Lewis">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="age,fairytales,growing-up" itemprop="keywords"/>
+<a class="tag" href="/tag/age/page/1/">age</a>
+<a class="tag" href="/tag/fairytales/page/1/">fairytales</a>
+<a class="tag" href="/tag/growing-up/page/1/">growing-up</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“We are not necessarily doubting that God will do the best for us; we are wondering how painful the best will turn out to be.”</span>
+<span>by <small class="author" itemprop="author">C.S. Lewis</small>
+<a href="/author/C-S-Lewis">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="god" itemprop="keywords"/>
+<a class="tag" href="/tag/god/page/1/">god</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.”</span>
+<span>by <small class="author" itemprop="author">Mark Twain</small>
+<a href="/author/Mark-Twain">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="death,life" itemprop="keywords"/>
+<a class="tag" href="/tag/death/page/1/">death</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“A lie can travel half way around the world while the truth is putting on its shoes.”</span>
+<span>by <small class="author" itemprop="author">Mark Twain</small>
+<a href="/author/Mark-Twain">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="misattributed-mark-twain,truth" itemprop="keywords"/>
+<a class="tag" href="/tag/misattributed-mark-twain/page/1/">misattributed-mark-twain</a>
+<a class="tag" href="/tag/truth/page/1/">truth</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I believe in Christianity as I believe that the sun has risen: not only because I see it, but because by it I see everything else.”</span>
+<span>by <small class="author" itemprop="author">C.S. Lewis</small>
+<a href="/author/C-S-Lewis">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="christianity,faith,religion,sun" itemprop="keywords"/>
+<a class="tag" href="/tag/christianity/page/1/">christianity</a>
+<a class="tag" href="/tag/faith/page/1/">faith</a>
+<a class="tag" href="/tag/religion/page/1/">religion</a>
+<a class="tag" href="/tag/sun/page/1/">sun</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/8/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+<li class="next">
+<a href="/page/10/">Next <span aria-hidden="true">→</span></a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Quotes to Scrape</title>
+<link href="/static/bootstrap.min.css" rel="stylesheet"/>
+<link href="/static/main.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+<div class="row header-box">
+<div class="col-md-8">
+<h1>
+<a href="/" style="text-decoration: none">Quotes to Scrape</a>
+</h1>
+</div>
+<div class="col-md-4">
+<p>
+<a href="/login">Login</a>
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-8">
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“The truth." Dumbledore sighed. "It is a beautiful and terrible thing, and should therefore be treated with great caution.”</span>
+<span>by <small class="author" itemprop="author">J.K. Rowling</small>
+<a href="/author/J-K-Rowling">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="truth" itemprop="keywords"/>
+<a class="tag" href="/tag/truth/page/1/">truth</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“I'm the one that's got to die when it's time for me to die, so let me live my life the way I want to.”</span>
+<span>by <small class="author" itemprop="author">Jimi Hendrix</small>
+<a href="/author/Jimi-Hendrix">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="death,life" itemprop="keywords"/>
+<a class="tag" href="/tag/death/page/1/">death</a>
+<a class="tag" href="/tag/life/page/1/">life</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“To die will be an awfully big adventure.”</span>
+<span>by <small class="author" itemprop="author">J.M. Barrie</small>
+<a href="/author/J-M-Barrie">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="adventure,love" itemprop="keywords"/>
+<a class="tag" href="/tag/adventure/page/1/">adventure</a>
+<a class="tag" href="/tag/love/page/1/">love</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“It takes courage to grow up and become who you really are.”</span>
+<span>by <small class="author" itemprop="author">E.E. Cummings</small>
+<a href="/author/E-E-Cummings">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="courage" itemprop="keywords"/>
+<a class="tag" href="/tag/courage/page/1/">courage</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“But better to get hurt by the truth than comforted with a lie.”</span>
+<span>by <small class="author" itemprop="author">Khaled Hosseini</small>
+<a href="/author/Khaled-Hosseini">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="life" itemprop="keywords"/>
+<a class="tag" href="/tag/life/page/1/">life</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“You never really understand a person until you consider things from his point of view... Until you climb inside of his skin and walk around in it.”</span>
+<span>by <small class="author" itemprop="author">Harper Lee</small>
+<a href="/author/Harper-Lee">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="better-life-empathy" itemprop="keywords"/>
+<a class="tag" href="/tag/better-life-empathy/page/1/">better-life-empathy</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children.”</span>
+<span>by <small class="author" itemprop="author">Madeleine L'Engle</small>
+<a href="/author/Madeleine-LEngle">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,children,difficult,grown-ups,write,writers,writing" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/children/page/1/">children</a>
+<a class="tag" href="/tag/difficult/page/1/">difficult</a>
+<a class="tag" href="/tag/grown-ups/page/1/">grown-ups</a>
+<a class="tag" href="/tag/write/page/1/">write</a>
+<a class="tag" href="/tag/writers/page/1/">writers</a>
+<a class="tag" href="/tag/writing/page/1/">writing</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“Never tell the truth to people who are not worthy of it.”</span>
+<span>by <small class="author" itemprop="author">Mark Twain</small>
+<a href="/author/Mark-Twain">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="truth" itemprop="keywords"/>
+<a class="tag" href="/tag/truth/page/1/">truth</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“A person's a person, no matter how small.”</span>
+<span>by <small class="author" itemprop="author">Dr. Seuss</small>
+<a href="/author/Dr-Seuss">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="inspirational" itemprop="keywords"/>
+<a class="tag" href="/tag/inspirational/page/1/">inspirational</a>
+</div>
+</div>
+<div class="quote" itemscope="" itemtype="http://schema.org/CreativeWork">
+<span class="text" itemprop="text">“... a mind needs books as a sword needs a whetstone, if it is to keep its edge.”</span>
+<span>by <small class="author" itemprop="author">George R.R. Martin</small>
+<a href="/author/George-R-R-Martin">(about)</a>
+</span>
+<div class="tags">
+            Tags:
+            <meta class="keywords" content="books,mind" itemprop="keywords"/>
+<a class="tag" href="/tag/books/page/1/">books</a>
+<a class="tag" href="/tag/mind/page/1/">mind</a>
+</div>
+</div>
+<nav>
+<ul class="pager">
+<li class="previous">
+<a href="/page/9/"><span aria-hidden="true">←</span> Previous</a>
+</li>
+</ul>
+</nav>
+</div>
+<div class="col-md-4 tags-box">
+<h2>Top Ten tags</h2>
+<span class="tag-item">
+<a class="tag" href="/tag/love/" style="font-size: 28px">love</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/inspirational/" style="font-size: 26px">inspirational</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/life/" style="font-size: 26px">life</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/humor/" style="font-size: 24px">humor</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/books/" style="font-size: 22px">books</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/reading/" style="font-size: 14px">reading</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friendship/" style="font-size: 10px">friendship</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/friends/" style="font-size: 8px">friends</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/truth/" style="font-size: 8px">truth</a>
+</span>
+<span class="tag-item">
+<a class="tag" href="/tag/simile/" style="font-size: 6px">simile</a>
+</span>
+</div>
+</div>
+</div>
+<footer class="footer">
+<div class="container">
+<p class="text-muted">
+                Quotes by: <a href="https://www.goodreads.com/quotes">GoodReads.com</a>
+</p>
+<p class="copyright">
+                Made with <span class="sh-red">❤</span> by <a href="https://scrapinghub.com">Scrapinghub</a>
+</p>
+</div>
+</footer>
+</body>
+</html>
